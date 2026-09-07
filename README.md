@@ -134,6 +134,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for the full list of dependencies and their licenses.
 
+---
+
+## Support
+
+If this project saved you some time, you can [buy me a coffee](https://buymeacoffee.com/iml1s).
+
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
