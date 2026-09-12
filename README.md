@@ -4,6 +4,11 @@
 
 # Prism
 
+> **Development home:** https://github.com/ImL1s/prism-windows-cleaner  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/prism-windows-cleaner) · [GitLab](https://gitlab.com/aa22396584/prism-windows-cleaner)
+
+
 **A modern, beautiful Windows system cleaner & optimizer**
 
 Built with [Tauri v2](https://tauri.app/) + [React](https://react.dev/) + [Fluent UI](https://react.fluentui.dev/)
