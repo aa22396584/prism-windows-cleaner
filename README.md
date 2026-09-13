@@ -12,6 +12,8 @@ https://github.com/aa22396584/prism-windows-cleaner
 [Codeberg](https://codeberg.org/ImL1s/prism-windows-cleaner)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/prism-windows-cleaner`](https://github.com/ImL1s/prism-windows-cleaner) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 **A modern, beautiful Windows system cleaner & optimizer**
 
 Built with [Tauri v2](https://tauri.app/) + [React](https://react.dev/) + [Fluent UI](https://react.fluentui.dev/)
