@@ -4,9 +4,8 @@
 
 # Prism
 
-> **開發主頁：** https://github.com/ImL1s/prism-windows-cleaner  
-> Issues / PR 請開在 GitHub。  
-> **鏡像備份：** [Codeberg](https://codeberg.org/ImL1s/prism-windows-cleaner) · [GitLab](https://gitlab.com/aa22396584/prism-windows-cleaner)
+**開發、Issues 與 PR：** https://github.com/aa22396584/prism-windows-cleaner  
+**鏡像：** [GitLab](https://gitlab.com/aa22396584/prism-windows-cleaner) · [Codeberg](https://codeberg.org/ImL1s/prism-windows-cleaner)
 
 
 **現代化、精美的 Windows 系統清理與優化工具**

@@ -4,9 +4,12 @@
 
 # Prism
 
-> **Development home:** https://github.com/ImL1s/prism-windows-cleaner  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/prism-windows-cleaner) · [GitLab](https://gitlab.com/aa22396584/prism-windows-cleaner)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/prism-windows-cleaner
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/prism-windows-cleaner) ·
+[Codeberg](https://codeberg.org/ImL1s/prism-windows-cleaner)
 
 
 **A modern, beautiful Windows system cleaner & optimizer**
